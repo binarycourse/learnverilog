@@ -1,7 +1,7 @@
 # Learn Verilog and SystemVerilog from Scratch
-
-
-
+The purpose of designing this project is to teach the Verilog (and SystemVerilog) languages. 
+Prerequisites are generally not required for learning the Verilog language, and basic principles such as the concepts of logic circuits and digital systems are explained.
+Knowledge about the logic circuits can be useful for better understanding and more practice.
 
 ## References
 
